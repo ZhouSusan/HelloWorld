@@ -1,3 +1,3 @@
 # Java
 
-Learning the fundamentals of Java 
+Printing out "Hello world!"
